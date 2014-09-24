@@ -1,9 +1,8 @@
 # Introduction to Git & GitHub at Stanford
 
-++++FOO FOOF OOO
-++++FOO FOOF OOO
-++++FOO FOOF OOO
-
+# Local edit
+* FOO FOOF OOO
+* ----NEW CHANGES---
 
 
 * edit locally
